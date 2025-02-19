@@ -1,10 +1,5 @@
 ﻿using IT_DEV_RISK.Interfaces;
 using IT_DEV_RISK.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace IT_DEV_RISK.Handlers
 {

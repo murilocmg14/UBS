@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.IO;
+﻿using IT_DEV_RISK.Category;
+using IT_DEV_RISK.Enums;
 using IT_DEV_RISK.Handlers;
 using IT_DEV_RISK.Interfaces;
 using IT_DEV_RISK.Models;
-using IT_DEV_RISK.Enums;
-using IT_DEV_RISK.Category;
-using Xunit;
+using System.Globalization;
 
 namespace IT_DEV_RISK.Tests
 {

@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using IT_DEV_RISK.Enums;
+﻿using IT_DEV_RISK.Enums;
 using IT_DEV_RISK.Models;
+using System.Globalization;
 
 namespace IT_DEV_RISK.Handlers
 {
